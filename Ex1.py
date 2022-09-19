@@ -1,3 +1,5 @@
+# Metoda Taylora/Maclaurina - wartość funkcji sinus oraz cosinus dla dowolnego kąta oraz 
+# wartość funkcji eksponencjalnej dla dowolnego argumentu z zadaną przez użytkownika dokładnością
 import math
 from matplotlib import pyplot as plt
 

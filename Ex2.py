@@ -1,8 +1,7 @@
-# Praca domowa MN 25.12.21 r. - Metoda Croute'a-Doolittle'a
+# Metoda Croute'a-Doolittle'a
 import numpy as np
 
-## Przykład z cw
-#matrix_A = np.array([[2,1,5,-1.5],[5,3,2,4],[-2,3,2,-4],[4.5,3,5,2]]) 
+ 
 matrix_A = np.array([[1,2,-1,1],[-1,1,2,-1],[2,-1,2,2],[1,1,-1,2]])
 matrix_B = np.array([[6],[3],[14],[8]])
 
