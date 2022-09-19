@@ -1,4 +1,4 @@
-#MN Ćw 9 24.01.21 Implementacja aproksymacji wielomianowej metodą najmniejszych kwadratów
+# Implementacja aproksymacji wielomianowej metodą najmniejszych kwadratów
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -27,6 +27,7 @@ def apro(stopien_wiel):
         wsp[i] = round(wsp[i], 2)
     print('Współczynniki a:', wsp)
     return wsp
+
 ######## WPISZ STOPIEN #########################################
 stopien_wiel = 3
 mac_A = apro(stopien_wiel)

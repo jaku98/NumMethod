@@ -1,4 +1,4 @@
-# Praca domowa MN 03.01.2022 r. - Zaimplementować metody bisekcji, regula falsi, siecznych i stycznych
+# Implementacja metody bisekcji, regula falsi, siecznych i stycznych
 import numpy as np 
 import math
 import matplotlib.pyplot as plt
@@ -39,7 +39,6 @@ def bisek( a, b, n):
     print('Rozwiązanie:  x= ', round(x, n), "f(x) =", round(f(x),n))
 
 
-    
 def fal(a, b, n):
     print('Met. Regula Falsi:\n')
     x = 0

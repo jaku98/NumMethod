@@ -1,5 +1,6 @@
-# MN10 24.01.2022 r.  Zaimplementować kwadratury Newtona Cotesa rzędów 1-6
-# +++ zaimplementować złożoną metodę trapezów (użytkownik definiuje ilość przedziałów) oraz ekstrapolację Richardsona (użytkownik definiuje krok)
+# Kwadratury Newtona Cotesa rzędów 1-6
+# Złożona metoda trapezów (użytkownik definiuje ilość przedziałów) 
+# Ekstrapolacja Richardsona (użytkownik definiuje krok)
 import matplotlib.pyplot as plt
 import numpy as np
 
